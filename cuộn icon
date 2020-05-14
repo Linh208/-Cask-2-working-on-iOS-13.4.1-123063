@@ -1,0 +1,27 @@
+{
+  "packageId": "com.ryannair05.cask",
+  "action": "working",
+  "userInfo": {
+    "arch32": false,
+    "packageId": "com.ryannair05.cask",
+    "deviceId": "iPhone9,3",
+    "url": "http://cydia.saurik.com/package/com.ryannair05.cask/",
+    "iOSVersion": "13.4.1",
+    "packageVersionIndexed": true,
+    "packageName": "Cask 2",
+    "category": "Tweaks",
+    "repository": "Packix",
+    "name": "Cask 2",
+    "installed": "1.0.2",
+    "packageIndexed": true,
+    "packageStatusExplaination": "A matching version of this tweak for this iOS version could not be found. Please submit a review if you choose to install.",
+    "id": "com.ryannair05.cask",
+    "commercial": false,
+    "packageInstalled": true,
+    "tweakCompatVersion": "0.1.5",
+    "shortDescription": "Animated table scrolling",
+    "latest": "1.0.2",
+    "author": "Ryan Nair",
+    "packageStatus": "Unknown"
+  },
+  "base64": "eyJhcmNoMzIiOmZhbHNlLCJwYWNrYWdlSWQiOiJjb20ucnlhbm5haXIwNS5jYXNrIiwiZGV2aWNlSWQiOiJpUGhvbmU5LDMiLCJ1cmwiOiJodHRwOlwvXC9jeWRpYS5zYXVyaWsuY29tXC9wYWNrYWdlXC9jb20ucnlhbm5haXIwNS5jYXNrXC8iLCJpT1NWZXJzaW9uIjoiMTMuNC4xIiwicGFja2FnZVZlcnNpb25JbmRleGVkIjp0cnVlLCJwYWNrYWdlTmFtZSI6IkNhc2sgMiIsImNhdGVnb3J5IjoiVHdlYWtzIiwicmVwb3NpdG9yeSI6IlBhY2tpeCIsIm5hbWUiOiJDYXNrIDIiLCJpbnN0YWxsZWQiOiIxLjAuMiIsInBhY2thZ2VJbmRleGVkIjp0cnVlLCJwYWNrYWdlU3RhdHVzRXhwbGFpbmF0aW9uIjoiQSBtYXRjaGluZyB2ZXJzaW9uIG9mIHRoaXMgdHdlYWsgZm9yIHRoaXMgaU9TIHZlcnNpb24gY291bGQgbm90IGJlIGZvdW5kLiBQbGVhc2Ugc3VibWl0IGEgcmV2aWV3IGlmIHlvdSBjaG9vc2UgdG8gaW5zdGFsbC4iLCJpZCI6ImNvbS5yeWFubmFpcjA1LmNhc2siLCJjb21tZXJjaWFsIjpmYWxzZSwicGFja2FnZUluc3RhbGxlZCI6dHJ1ZSwidHdlYWtDb21wYXRWZXJzaW9uIjoiMC4xLjUiLCJzaG9ydERlc2NyaXB0aW9uIjoiQW5pbWF0ZWQgdGFibGUgc2Nyb2xsaW5nIiwibGF0ZXN0IjoiMS4wLjIiLCJhdXRob3IiOiJSeWFuIE5haXIiLCJwYWNrYWdlU3RhdHVzIjoiVW5rbm93biJ9cuộ
